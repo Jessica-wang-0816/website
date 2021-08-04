@@ -227,7 +227,7 @@ spec:
             - name: S3_ENDPOINT
               value: {s3_endpoint}
             - name: AWS_ENDPOINT_URL
-              value: {minio_endpoint}
+                              value: {minio_endpoint}
             - name: AWS_REGION
               value: {minio_region}
             - name: BUCKET_NAME
