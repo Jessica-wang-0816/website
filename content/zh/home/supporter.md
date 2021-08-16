@@ -91,6 +91,12 @@ img_height = "60px"
 url = "https://www.ruitiancapital.com/#/ "
 
 [[featured]]
+img_src = "logo_boyun.png"
+img_width = "100px"
+img_height = "60px"
+url = "http://www.bocloud.com.cn/ "
+
+[[featured]]
 img_src = "logo_zhongkeleinao.png"
 img_width = "100px"
 img_height = "60px"
